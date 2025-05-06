@@ -1,7 +1,11 @@
 # ML_DL_NLP_frequent_problems
-A curated collection of beginner-friendly ML, NLP, and DL practice problems. Each project includes a problem statement, dataset link, model code, and interview relevance. Ideal for learning and building a job-ready portfolio.
+Welcome to the ML & NLP Projects Repository — a practical collection of 25+ real-world problems designed to help you learn, build, and ace ML interviews. Ideal for learning and building a job-ready portfolio. These projects cover everything from binary classification to deep learning and model deployment.
 
-Welcome to the ML & NLP Projects Repository — a practical collection of 25+ real-world problems designed to help you learn, build, and ace ML interviews. These projects cover everything from binary classification to deep learning and model deployment.
+<!-- 
+  🚧 I am currently in the process of adding projects to this repository. 
+  ⏳ It will take some time for all projects to be included. 
+  🔄 Please check back for updates! 
+-->
 
 🔍 Projects
 
