@@ -1,0 +1,25 @@
+Problem: Recommend movies/products using their metadata (e.g., genre, description).
+
+
+Dataset: TMDB Dataset (Kaggle link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+
+Solution Approach:
+
+
+1. Clean and preprocess text features (e.g., genres, overview).
+
+
+2. Convert text to TF-IDF vectors.
+
+
+3. Compute cosine similarity matrix.
+
+
+4. Recommend top-N similar items.
+
+
+Tech: TF-IDF, cosine_similarity, sklearn, pandas.
+
+
+Interview Relevance: Complements collaborative filtering; shows you understand hybrid systems.
