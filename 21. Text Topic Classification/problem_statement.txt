@@ -1,0 +1,9 @@
+Problem: Classify news articles or documents by topic (sports, politics, tech, etc.).
+
+Dataset: BBC Text Classification Dataset (Kaggle)
+
+
+Tech: TF-IDF + Logistic Regression / SVM / LSTM
+
+
+Interview Relevance: NLP text categorization skills.
